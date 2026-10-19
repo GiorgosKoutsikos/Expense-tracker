@@ -41,5 +41,28 @@ def view_expenses():
 
     conn.close()
 
-init_db()
-view_expenses()
+def main():
+    init_db()
+    while True:
+        print("----MENU----")
+        print("1.Add")
+        print("2.Details")
+        print("3.Exit")
+        print("\n")
+
+        choice = input("Your choice: ")
+
+
+        if choice == "1":
+            add_expense()
+        elif choice == "2":
+            view_expenses()
+            print("\n")
+        elif choice == "3":
+            print("GoodBye!")
+            break
+        else:
+            print("Not valid value.")
+
+if __name__ == "__main__":
+    main()
