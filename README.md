@@ -20,10 +20,6 @@ This project was developed for **learning purposes** as part of hands-on practic
 - Designing clean CLI execution flow with functions and interactive control loops.
 - Managing local databases and tracking progress using modular Git commits and `.gitignore`.
 
-## Requirements
-
-- No external libraries required (uses Python's built-in modules).
-
 ## Installation & Usage
 
 1. Clone the repository:
