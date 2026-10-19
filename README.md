@@ -22,7 +22,6 @@ This project was developed for **learning purposes** as part of hands-on practic
 
 ## Requirements
 
-- Python 3.x
 - No external libraries required (uses Python's built-in modules).
 
 ## Installation & Usage
