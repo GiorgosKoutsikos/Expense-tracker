@@ -24,6 +24,6 @@ This project was developed for **learning purposes** as part of hands-on practic
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/expense-tracker.git
+   git clone (https://github.com/)<your-username>/expense-tracker.git
    cd expense-tracker
    ```
